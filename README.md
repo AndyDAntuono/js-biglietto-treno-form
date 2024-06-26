@@ -23,8 +23,8 @@ Calcolare il prezzo di un biglietto del treno in base all'età e alla distanza c
 
 *SOLUZIONE*
 
+- chiedo all'utente il suo nome e cognome
 - chiedo all'utente quanta distanza deve percorrere
-- devo applicare 0.21 € per ogni chilometro percorso dall'utente
 - chiedo all'utente la sua età
 - SE l'utente è un minorenne, egli avrà il biglietto scontato del 20%
 - SE l'utente è un over 65, egli avrà il biglietto scontato del 40%
