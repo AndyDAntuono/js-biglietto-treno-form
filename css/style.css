@@ -3,3 +3,14 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+
+/*CUSTOM CLASSES*/
+
+.bg-red {
+	background-color: rgba(185,20,80,255);
+}
+
+.text_color_red {
+	color: rgba(185,20,80,255);
+}
