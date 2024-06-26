@@ -11,6 +11,11 @@
 	background-color: rgba(185,20,80,255);
 }
 
+.bg-grey  {
+	background-color: dimgray;
+	color: black;
+}
+
 .text_color_red {
 	color: rgba(185,20,80,255);
 }
