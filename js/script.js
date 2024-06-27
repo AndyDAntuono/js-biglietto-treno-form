@@ -20,7 +20,12 @@ button.addEventListener("click", function () {
     console.log(firstname_and_surname)
     console.log(fullPrice)
 
-    document.getElementById("ticket_price").innerText = discountPrice+"€";
+    document.getElementById("ticket_price").innerHTML = discountPrice+"€";
+    //document.getElementById("passenger_name").innerHTML = firstname_and_surname;
+    //// Returns a random integer from 0 to 9:Math.floor(Math.random() * 10); 574
+    //let message_standard = `Biglietto standard`
+    //let message_minor = `Biglietto scontato per minorenni`
+    //let message_senior = `Biglietto scontato per over65`
     
 
 
